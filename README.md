@@ -1,0 +1,2 @@
+# Hackerrank_Equalizing_The_Array_Working_Test_Case
+Hackerrank_Equalizing_The_Array_Working_Test_Case
